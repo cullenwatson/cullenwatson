@@ -1,5 +1,7 @@
 ## Hello! I'm Cullen 👋
 
+[View my website](https://cullenwatson.com)
+
 * I am currently a Computer Science undergraduate student at Southern Methodist University.
 
 * My interests lie in the field of artificial intelligence and machine learning.
