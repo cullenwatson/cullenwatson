@@ -6,7 +6,7 @@
 
 * My interests lie in the field of artificial intelligence and machine learning.
 
-* You can contact me at: cgwatson@smu.edu
+* You can contact me at: cullen@cullenwatson.com
 
 ### Connect with Me:
 
