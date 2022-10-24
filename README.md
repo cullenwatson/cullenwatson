@@ -4,7 +4,7 @@
 
 * I am currently a Computer Science undergraduate student at Southern Methodist University.
 
-* My interests lie in the field of artificial intelligence and machine learning.
+* My interests lie in the field of machine learning.
 
 * You can contact me at: cullen@cullenwatson.com
 
