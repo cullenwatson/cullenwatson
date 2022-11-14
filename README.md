@@ -6,7 +6,7 @@
 
 * My interests lie in the field of machine learning.
 
-* You can contact me at: cullen@cullenwatson.com
+* You can contact me at: cullen[at]cullenwatson.com
 
 ### Connect with Me:
 
